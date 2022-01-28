@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Shreya Patil\\OneDrive\\Desktop\\codes\\pattern",
+      "environment": [],
+      "program": "c:\\Users\\Shreya Patil\\OneDrive\\Desktop\\codes\\pattern\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
